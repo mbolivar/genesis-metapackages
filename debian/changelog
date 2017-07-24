@@ -1,3 +1,9 @@
+genesis-metapackages (0.6) UNRELEASED; urgency=medium
+
+  * genesis-dev: also depend on python3-pip
+
+ -- Marti Bolivar <marti.bolivar@linaro.org>  Mon, 24 Jul 2017 15:13:13 -0400
+
 genesis-metapackages (0.5) xenial; urgency=medium
 
   * genesis-dev: add dependencies for imgtool.py
