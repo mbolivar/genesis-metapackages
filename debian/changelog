@@ -1,3 +1,9 @@
+genesis-metapackages (0.7) UNRELEASED; urgency=medium
+
+  * genesis-dev: also depend on device-tree-compiler
+
+ -- Marti Bolivar <marti.bolivar@linaro.org>  Mon, 24 Jul 2017 15:13:13 -0400
+
 genesis-metapackages (0.6) xenial; urgency=medium
 
   * genesis-dev: also depend on python3-pip
